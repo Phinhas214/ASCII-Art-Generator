@@ -2,7 +2,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 
-String density = "Ñ@#W$9876543210?!abc;:+=-,._ ";
+String density = "Ñs@#W$9876543210?!abc;:+=-,._";
 ArrayList<String> imagePaths = new ArrayList<String>();
 PImage photo = null;
 int imgIndex = 0;
